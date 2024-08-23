@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 
 ## 🚀 Skills & Technologies
 
+- Javascript
 - React JS
 - Next JS
 - Mongo DB
