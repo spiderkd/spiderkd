@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
   - [GitHub Repository](https://github.com/spiderkd/Appwriteblog)
   - [Website Link](https://appwriteblog-psi.vercel.app/)
 
-### 📝 Anonymous messaging app with next js
+### 🌐 Anonymous messaging app with next js
 - **Description:**
   - An anonymous messaging platform built using Next.js, Tailwind CSS, and Node.js.
   - Features secure and anonymous message submission .
@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
   - [GitHub Repository](https://github.com/spiderkd/No_hard_felling_feedback)
   - [Website Link](https://www.nohardfellingfeedback.xyz/)
 
-### 📝 Zoom Clone with Real-Time Communication
+### 🖥️ Zoom Clone with Real-Time Communication
 - **Description:**
   - A Zoom-like video conferencing app built using Next.js and Tailwind CSS.
   - Real-time video and audio functionality powered by GetStream.io .
