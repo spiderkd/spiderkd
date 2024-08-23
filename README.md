@@ -22,8 +22,32 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderkd&layout=compact&theme=radical)
 
 ## 💼 Projects
+### 📝 Blog Website with Appwrite Services
+- **Description:**
+  - short form blog using React JS, Tailwind CSS, Redux-toolkit.
+  - Secure authentication & user-friendly interface .
+  - User can create, publish, update short blogs posts .
+  - Backend powered by Appwrite for secure data storage.
+  - [GitHub Repository](https://github.com/spiderkd/Appwriteblog)
+  - [Website Link](https://appwriteblog-psi.vercel.app/)
 
-Here are some projects I've worked on:
+### 📝 Anonymous messaging app with next js
+- **Description:**
+  - An anonymous messaging platform built using Next.js, Tailwind CSS, and Node.js.
+  - Features secure and anonymous message submission .
+  - Users can send messages without revealing their identity.
+  - AI-powered feature that provides message suggestions using google generative ai .
+  - [GitHub Repository](https://github.com/spiderkd/No_hard_felling_feedback)
+  - [Website Link]([https://appwriteblog-psi.vercel.app/](https://www.nohardfellingfeedback.xyz/))
+
+### 📝 Zoom Clone with Real-Time Communication
+- **Description:**
+  - A Zoom-like video conferencing app built using Next.js and Tailwind CSS.
+  - Real-time video and audio functionality powered by GetStream.io .
+  - Secure user authentication and management using Clerk.
+  - Users can create, join,record, and manage video meetings with ease.
+  - [GitHub Repository](https://github.com/yourusername/zoom-clone-nextjs)
+  - [Link](https://zoom-clone-nextjs.vercel.app/)
 
 ## 🌱 Currently Learning
 - Backend Development (Advanced)
