@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Yash kedia
 
 🌐 **Full-Stack Web Developer | Responsive Designer | Problem Solver**
 
@@ -24,21 +24,18 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 ## 💼 Projects
 
 Here are some projects I've worked on:
-- **[Project 1 Name](Link)**: Brief description of the project.
-- **[Project 2 Name](Link)**: Brief description of the project.
-- **[Project 3 Name](Link)**: Brief description of the project.
+
+## 🌱 Currently Learning
+- Backend Development (Advanced)
+- UI/UX Design psychology
+- Machine Learning Basics
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yash-kedia-589144255)
+- **Twitter:** [@yourhandle](https://twitter.com/YashKed96215112)
+- **Email:** yashkd12790@gmail.com
 
-## 🌱 Currently Learning
-- Advanced TypeScript
-- Serverless Architecture
-- Machine Learning Basics
-
-## 🤝 Let's Connect!
+ ## 🤝 Let's Connect!
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
