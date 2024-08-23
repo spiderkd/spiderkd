@@ -56,8 +56,8 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yash-kedia-589144255)
-- **Twitter:** [@yourhandle](https://twitter.com/YashKed96215112)
+- **LinkedIn:** [yash-kedia-589144255](https://www.linkedin.com/in/yash-kedia-589144255)
+- **Twitter:** [@YashKed96215112](https://twitter.com/YashKed96215112)
 - **Email:** yashkd12790@gmail.com
 
  ## 🤝 Let's Connect!
