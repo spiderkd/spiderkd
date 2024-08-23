@@ -1,35 +1,25 @@
 # Hi there! 👋 I'm [Your Name]
 
-🌐 **Full-Stack Web Developer | JavaScript Enthusiast | Problem Solver**
+🌐 **Full-Stack Web Developer | Responsive Designer | Problem Solver**
 
 Welcome to my GitHub! I'm passionate about building responsive, user-friendly web applications and love bringing ideas to life through code. Here's a bit about me:
 
 ## 🚀 Skills & Technologies
 
-### Frontend:
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js, Tailwind CSS, Bootstrap
-- **Tools:** Framer Motion, Webpack, Babel
+- React JS
+- Next JS
+- Mongo DB
+- Express JS
+- Tailwind CSS
+- Redux Toolkit
+- Context APIs
+- Figma
 
-### Backend:
-- **Languages:** Node.js, Python
-- **Frameworks:** Express.js, Django
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **APIs:** REST, GraphQL
-
-### DevOps:
-- **Platforms:** AWS, Heroku, Vercel
-- **CI/CD:** GitHub Actions, Docker, Jenkins
-
-### Other:
-- **Version Control:** Git, GitHub
-- **Design:** Figma, Adobe XD
-- **Testing:** Jest, Cypress
-
+  
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spiderkd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderkd&layout=compact&theme=radical)
 
 ## 💼 Projects
 
