@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate Full stack web developer with passion for
   - Secure authentication & user-friendly interface .
   - User can create, publish, update short blogs posts .
   - Backend powered by Appwrite for secure data storage.
-  - [GitHub Repository](https://github.com/spiderkd/Appwriteblog)
+  - [GitHub Repository](https://github.com/spiderkd/BlogTube)
   - [Website Link](https://appwriteblog-psi.vercel.app/)
 
 ### 🌐 Anonymous messaging app with next js
