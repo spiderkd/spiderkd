@@ -46,8 +46,8 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
   - Real-time video and audio functionality powered by GetStream.io .
   - Secure user authentication and management using Clerk.
   - Users can create, join,record, and manage video meetings with ease.
-  - [GitHub Repository](https://github.com/yourusername/zoom-clone-nextjs)
-  - [Link](https://zoom-clone-nextjs.vercel.app/)
+  - [GitHub Repository](https://github.com/spiderkd/video_conference_app)
+  - [Link](https://video-conference-zoom-clone.vercel.app/sign-in?redirect_url=https%3A%2F%2Fvideo-conference-zoom-clone.vercel.app%2F)
 
 ## 🌱 Currently Learning
 - Backend Development (Advanced)
