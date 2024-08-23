@@ -2,7 +2,7 @@
 
 🌐 **Full-Stack Web Developer | Responsive Designer | Problem Solver**
 
-Welcome to my GitHub! I'm passionate about building responsive, user-friendly web applications and love bringing ideas to life through code. Here's a bit about me:
+Welcome to my GitHub! I'm a passionate Full stack web developer with passion for building user-friendly and usefull web applications and love bringing ideas to life through code.Currently I'm trying to master backend and trying to dabble into machine learning.Here's a bit about me:
 
 ## 🚀 Skills & Technologies
 
