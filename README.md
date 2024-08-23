@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm passionate about building responsive, user-friendly we
   - Users can send messages without revealing their identity.
   - AI-powered feature that provides message suggestions using google generative ai .
   - [GitHub Repository](https://github.com/spiderkd/No_hard_felling_feedback)
-  - [Website Link]([https://appwriteblog-psi.vercel.app/](https://www.nohardfellingfeedback.xyz/))
+  - [Website Link](https://www.nohardfellingfeedback.xyz/)
 
 ### 📝 Zoom Clone with Real-Time Communication
 - **Description:**
