@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate Full stack web developer with passion for
   - Secure user authentication and management using Clerk.
   - Users can create, join,record, and manage video meetings with ease.
   - [GitHub Repository](https://github.com/spiderkd/video_conference_app)
-  - [Link](https://video-conference-zoom-clone.vercel.app/sign-in?redirect_url=https%3A%2F%2Fvideo-conference-zoom-clone.vercel.app%2F)
+  - [Website Link](https://video-conference-zoom-clone.vercel.app/sign-in?redirect_url=https%3A%2F%2Fvideo-conference-zoom-clone.vercel.app%2F)
 
 ## 🌱 Currently Learning
 - Backend Development (Advanced)
