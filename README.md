@@ -1,66 +1,105 @@
-# Hi there! 👋 I'm Yash kedia
+# Hi there! 👋 I'm Yash Kedia  
 
-🌐 **Full-Stack Web Developer | Responsive Designer | Problem Solver**
+🚀 **Frontend-Focused Full-Stack Developer | React & Next.js | Product-Oriented Builder**
 
-Welcome to my GitHub! I'm a passionate Full stack web developer with passion for building user-friendly and usefull web applications and love bringing ideas to life through code.Currently I'm trying to master backend and trying to dabble into machine learning.Here's a bit about me:
+I build production-ready web applications with a strong focus on clean UI, scalable architecture, and real-world usability. While I work across the stack, my core strength lies in crafting responsive, performant frontend experiences that integrate seamlessly with backend systems.
 
-## 🚀 Skills & Technologies
+Currently deepening my expertise in backend systems, production architecture, and scalable full-stack design.
 
-- Javascript
-- React JS
-- Next JS
-- Mongo DB
-- Express JS
-- Tailwind CSS
-- Redux Toolkit
-- Context APIs
-- Figma
+---
 
-  
+## 🛠 Tech Stack
+
+### Frontend
+- React.js  
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
+- Redux Toolkit  
+- Context API  
+
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- REST APIs  
+
+### Tools
+- Git / GitHub  
+- Vercel  
+- Postman  
+- Figma  
+
+---
+
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spiderkd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderkd&layout=compact&theme=radical)
+[![YASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderkd)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderkd&layout=compact&theme=radical)
 
-## 💼 Projects
-### 📝 Blog Website with Appwrite Services
-- **Description:**
-  - short form blog using React JS, Tailwind CSS, Redux-toolkit.
-  - Secure authentication & user-friendly interface .
-  - User can create, publish, update short blogs posts .
-  - Backend powered by Appwrite for secure data storage.
-  - [GitHub Repository](https://github.com/spiderkd/BlogTube)
-  - [Website Link](https://appwriteblog-psi.vercel.app/)
+---
 
-### 🌐 Anonymous messaging app with next js
-- **Description:**
-  - An anonymous messaging platform built using Next.js, Tailwind CSS, and Node.js.
-  - Features secure and anonymous message submission .
-  - Users can send messages without revealing their identity.
-  - AI-powered feature that provides message suggestions using google generative ai .
-  - [GitHub Repository](https://github.com/spiderkd/No_hard_felling_feedback)
-  - [Website Link](https://www.nohardfellingfeedback.xyz/)
+## 💼 Selected Projects
 
-### 🖥️ Zoom Clone with Real-Time Communication
-- **Description:**
-  - A Zoom-like video conferencing app built using Next.js and Tailwind CSS.
-  - Real-time video and audio functionality powered by GetStream.io .
-  - Secure user authentication and management using Clerk.
-  - Users can create, join,record, and manage video meetings with ease.
-  - [GitHub Repository](https://github.com/spiderkd/video_conference_app)
-  - [Website Link](https://video-conference-zoom-clone.vercel.app/sign-in?redirect_url=https%3A%2F%2Fvideo-conference-zoom-clone.vercel.app%2F)
+### 🌍 Vitaan (Freelance – Full Stack Application)
+- Built and deployed a production-ready web application.
+- Implemented responsive UI, backend APIs, and database integration.
+- Focused on maintainability, performance, and clean architecture.
 
-## 🌱 Currently Learning
-- Backend Development (Advanced)
-- UI/UX Design psychology
-- Machine Learning Basics
+🔗 https://vitaan.org/
 
-## 📫 How to Reach Me
+---
 
-- **LinkedIn:** [yash-kedia-589144255](https://www.linkedin.com/in/yash-kedia-589144255)
-- **Twitter:** [@YashKed96215112](https://twitter.com/YashKed96215112)
-- **Email:** yashkd12790@gmail.com
+### 📊 Iron Will – Habit Tracker
+- Built using modern React/Next.js architecture.
+- Handles user state management and progress tracking.
+- Designed with clarity, responsiveness, and smooth UX in mind.
 
- ## 🤝 Let's Connect!
+🔗 https://iron-will-xi.vercel.app/
 
-Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
+---
+
+### 🎥 Real-Time Video Conference App
+- Zoom-like application built with Next.js.
+- Integrated real-time video/audio functionality.
+- Implemented authentication and user session management.
+
+🔗 https://video-transcoder-main.vercel.app/
+
+---
+## 🚧 Currently Building
+
+### 🧩 React UI Component Library
+- Building a reusable, scalable React UI library.
+- Focused on accessibility, composability, and clean API design.
+- Emphasis on performance, developer experience, and design system consistency.
+
+### 🤖 AI-Integrated Website Builder
+- Developing a website builder powered by AI to generate structured layouts and components dynamically.
+- Combining frontend architecture with AI workflows.
+- Exploring prompt-driven UI generation and intelligent content structuring.
+
+
+---
+
+## 🌱 Currently Improving
+
+- Backend system design & architecture  
+- Production deployment strategies  
+- Performance optimization  
+- Scalable frontend architecture patterns  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/yash-kedia-dev/
+- **Email:** yashkd12790@gmail.com  
+
+---
+
+## 🤝 Open To
+
+- Frontend / Full-Stack roles  
+- Freelance product builds  
+- Early-stage startup collaborations  
