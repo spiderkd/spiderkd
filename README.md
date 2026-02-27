@@ -94,7 +94,8 @@ Currently deepening my expertise in backend systems, production architecture, an
 ## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/yash-kedia-dev/
-- **Email:** yashkd12790@gmail.com  
+- **Email:** yashkd12790@gmail.com
+- **Portfolio:** https://www.kediayash.in/
 
 ---
 
