@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm Yash Kedia  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-github21&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-github21" /> </p>
+
 
 🚀 **Frontend-Focused Full-Stack Developer | React & Next.js | Product-Oriented Builder**
 
