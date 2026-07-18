@@ -1,108 +1,136 @@
-# Hi there! 👋 I'm Yash Kedia  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-github21&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-github21" /> </p>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=root%40spiderkd%3A~%24+whoami;full-stack+developer;building+agentic+AI+%2B+brutalist+UI;shipping+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 
-🚀 **Frontend-Focused Full-Stack Developer | React & Next.js | Product-Oriented Builder**
+</div>
 
-I build production-ready web applications with a strong focus on clean UI, scalable architecture, and real-world usability. While I work across the stack, my core strength lies in crafting responsive, performant frontend experiences that integrate seamlessly with backend systems.
+<br/>
 
-Currently deepening my expertise in backend systems, production architecture, and scalable full-stack design.
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+### > cat about.md
 
-## 🛠 Tech Stack
+I'm **Kedia** (`spiderkd`) — a full-stack developer who likes interfaces
+that feel a little too alive. Next.js, TypeScript, and Node.js are the
+daily drivers; GSAP and Framer Motion are how I make things move.
 
-### Frontend
-- React.js  
-- Next.js  
-- TypeScript  
-- Tailwind CSS  
-- Redux Toolkit  
-- Context API  
+Lately I'm deep in:
+- 🕸️ **Agentic AI tooling** — MCP servers, tool-calling pipelines, AI chat widgets
+- 🎨 **Brutalist / experimental UI** — scroll-jacking, kinetic type, terminal aesthetics
+- 🛠️ **Portfolio-as-a-playground** — every feature ships to production, warts and all
 
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- REST APIs  
+```bash
+$ curl bydefaulthuman.fun
+> status: online
+> vibe: brutalist / kinetic / a little unhinged
+```
 
-### Tools
-- Git / GitHub  
-- Vercel  
-- Postman  
-- Figma  
+**Currently building:** a personal portfolio with GSAP page transitions,
+a Gemini-powered AI chat widget, and a sliding puzzle game — because
+why not.
 
----
+</td>
+<td width="45%" valign="top" align="center">
 
-## 📈 GitHub Stats
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/undraw_programmer.gif" width="330" alt="coding gif"/>
 
-[![YASH's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderkd)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderkd&layout=compact&theme=radical)
-
----
-
-## 💼 Selected Projects
-
-### 🌍 Vitaan (Freelance – Full Stack Application)
-- Built and deployed a production-ready web application.
-- Implemented responsive UI, backend APIs, and database integration.
-- Focused on maintainability, performance, and clean architecture.
-
-🔗 https://vitaan.org/
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Iron Will – Habit Tracker
-- Built using modern React/Next.js architecture.
-- Handles user state management and progress tracking.
-- Designed with clarity, responsiveness, and smooth UX in mind.
+### > ls -la stack/
 
-🔗 https://iron-will-xi.vercel.app/
+<div align="center">
 
----
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### 🎥 Real-Time Video Conference App
-- Zoom-like application built with Next.js.
-- Integrated real-time video/audio functionality.
-- Implemented authentication and user session management.
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
-🔗 https://video-transcoder-main.vercel.app/
-
----
-## 🚧 Currently Building
-
-### 🧩 React UI Component Library
-- Building a reusable, scalable React UI library.
-- Focused on accessibility, composability, and clean API design.
-- Emphasis on performance, developer experience, and design system consistency.
-
-### 🤖 AI-Integrated Website Builder
-- Developing a website builder powered by AI to generate structured layouts and components dynamically.
-- Combining frontend architecture with AI workflows.
-- Exploring prompt-driven UI generation and intelligent content structuring.
-
+</div>
 
 ---
 
-## 🌱 Currently Improving
+### > ./run stats.sh
 
-- Backend system design & architecture  
-- Production deployment strategies  
-- Performance optimization  
-- Scalable frontend architecture patterns  
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=spiderkd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderkd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=spiderkd&theme=github-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderkd&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="95%"/>
+
+</div>
+
+> Swap the widgets above for **[lowlighter/metrics](https://github.com/lowlighter/metrics)** if you want an isometric commit calendar, a skyline render, or a terminal-themed metrics card generated by GitHub Actions instead of third-party SVG endpoints (it's self-hosted in your own repo, so it never goes down).
 
 ---
 
-## 📫 Connect With Me
+### > tail -f log.txt
 
-- **LinkedIn:** https://www.linkedin.com/in/yash-kedia-dev/
-- **Email:** yashkd12790@gmail.com
-- **Portfolio:** https://www.kediayash.in/
+<div align="center">
+<img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/gifs/hacktoberfest.gif" width="450" alt="activity gif" onerror="this.style.display='none'"/>
+</div>
+
+<!--START_SECTION:activity-->
+<!-- This section can be auto-filled by github-readme-activity-graph or jamesgeorge007/github-activity-readme via a scheduled Action -->
+<!--END_SECTION:activity-->
 
 ---
 
-## 🤝 Open To
+### > play ./gh-space-shooter
 
-- Frontend / Full-Stack roles  
-- Freelance product builds  
-- Early-stage startup collaborations  
+Fancy something more interactive than a stats card? [**gh-space-shooter**](https://github.com/czl9707/gh-space-shooter) turns your README into a playable arcade shooter rendered as an animated SVG — very on-brand for a profile that already ships a sliding-puzzle game.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/screenshots/demo.gif" width="500" alt="space shooter demo" onerror="this.style.display='none'"/>
+</div>
+
+---
+
+### > cat contact.json
+
+<div align="center">
+
+```json
+{
+  "site": "bydefaulthuman.fun",
+  "github": "@spiderkd",
+  "status": "shipping",
+  "open_to": ["collabs", "interesting bugs", "brutalist design talk"]
+}
+```
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-bydefaulthuman.fun-00FF41?style=for-the-badge&logo=vercel&logoColor=white)](https://bydefaulthuman.fun)
+[![GitHub](https://img.shields.io/badge/GitHub-spiderkd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spiderkd)
+
+</div>
+
+<div align="center">
+<sub>⚡ this readme is a living component, not a static file — expect it to change.</sub>
+</div>
