@@ -27,9 +27,11 @@ Currently on the reading table:
 > *"A room without books is like a body without a soul."* — I feel the same about a repo without a README.
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="center" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/undraw_bibliophile.gif" width="300" alt="library gif" onerror="this.style.display='none'"/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV3NDNoMGhpNzlvMTlhcnR3enIwdmJpbzdkaGxyNXlwdXJ2cTU2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3owvKetQ10qjmkM9Wg/200.gif" width="300" alt="dark cozy fireplace gif"/>
+
 
 </td>
 </tr>
