@@ -84,7 +84,7 @@ An agentic pipeline that turns messy brain dumps into structured action — buil
 
 `Gemini 2.5 Flash` `Vercel AI SDK` `MCP`
 
-🔗 [Update with your brain-dump-web live link]
+🔗 [braindump-livid.vercel.app](https://braindump-livid.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
@@ -95,13 +95,12 @@ A video transcoding pipeline that ingests raw uploads and outputs adaptive-bitra
 
 `Node.js` `FFmpeg` `AWS S3` `HLS`
 
-🔗 [Update with your repo link]
+🔗 [video-transcoder-main.vercel.app](https://video-transcoder-main.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-> 📌 **Note for you:** drop in the actual repo URLs for Brain Dump Butler and the HLS encoder once you've got them handy — I left placeholders since I don't have the exact repo slugs.
 
 ---
 
